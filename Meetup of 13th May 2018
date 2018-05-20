@@ -1,0 +1,99 @@
+Meetup of 13th May 2018
+
+Time: 16:00 UTC 13th May 2018
+
+Attendees: Sofar, Frozen, Evgeniy, true, mojs, nick cloudpost, Gribbly, AnotherYou, 13ecause, sgaragagghu, rubencm, One8zero3, Darknet 
+
+Place: discord #meetup-channel
+
+
+Agenda:
+
+1. Discuss the question gathered from discord channels.
+
+2. Discuss the dev plan.
+
+3. Review the task list. 
+
+
+Part I Q&A:
+
+Q1: sha256 double algo and thoughts about swaping it.
+
+A1: We are ready to consider hashing algo to anti-asic, and will continue the work to investigate algo.
+
+
+Q2: Promotion of xdag and ways we could do that.
+
+A2: We are not in hurry to promote xdag before the main net is stable.
+
+As promotion of xdag, we are also hiring more developers.
+
+The ways we could do are 1, BitTalk thread. 2, Facebook Page. 3, Twitter Account. 4, WeChat Groups.
+
+
+Q3: Plus want to talk about private and public pool, Block explorers.
+
+A3: Pools are audited in current state, will be open for public when main net is stable. Community has the official block explorer: http://explorer.xdag.io
+
+
+Part II Dev plan:
+
+1. Improve the main net stabability.
+
+2. Improve the network performance.
+
+
+Part III Tasks:
+
+Core tasks:
+
+1. Refresh white-list automatically.
+
+2. Make production and test networks incompatible.
+
+3. Optimize blocks storage.
+
+4. Add commands to list and manually resynchronize unaccepted blocks.
+
+5. JSON-RPC for mining
+
+6. JSON-RPC for light wallet
+
+7. Support for miners' tag in pool and GPU miner
+
+8. Leave only wallet.data for account identification.
+
+9. Specialized software for exchanges
+
+10. Base58 addresses
+
+11. Refactoring for nopaid share and payment calculation
+
+12. Further refactoring for mining logic
+
+13. Optimize command `block` to support multi-page
+
+14. Use keys & address to restore wallet
+
+15. Full wallet(node)
+
+
+Wallet tasks:
+
+1. Redesign GUI wallet.
+
+2. Connect to node automatically.
+
+3. List tx records.
+
+4. Export keys & storage.
+
+5. Import keys & storage.
+
+
+GPU Miner tasks:
+
+1. Reconnect when pool is down.
+
+2. List pools in GPU Miner.
