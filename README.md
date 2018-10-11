@@ -1,5 +1,5 @@
-# management
-Record all management related documents in this repository. Including meetup minutes, develop plan.
+# Project Management
+Record all the development progress and all the managment related documnets in this repository, inlucindg meetup minutes and develop plan.
 
 ## Progress
 
@@ -19,7 +19,7 @@ Record all management related documents in this repository. Including meetup min
 [![Throughput Graph](https://graphs.waffle.io/XDagger/QtXdagWallet/throughput.svg)](https://waffle.io/XDagger/QtXdagWallet/metrics/throughput)
 
 **XDAG GPU Miner**  
-
+[![Throughput Graph](https://graphs.waffle.io/jonano614/DaggerGpuMiner/throughput.svg)](https://waffle.io/jonano614/DaggerGpuMiner/metrics/throughput)
 
 **XDAG XIP**  
 [![Throughput Graph](https://graphs.waffle.io/XDagger/XIPs/throughput.svg)](https://waffle.io/XDagger/XIPs/metrics/throughput)
