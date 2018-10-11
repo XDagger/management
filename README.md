@@ -13,12 +13,20 @@ Record all management related documents in this repository. Including meetup min
 [![Throughput Graph](https://graphs.waffle.io/XDagger/xdag-ios/throughput.svg)](https://waffle.io/XDagger/xdag-ios/metrics/throughput)
 
 **XDAG Mac Wallet**  
-
+[![Throughput Graph](https://graphs.waffle.io/XDagger/XDagWalletforMac/throughput.svg)](https://waffle.io/XDagger/XDagWalletforMac/metrics/throughput)
 
 **xDAGWallet C Lib**  
-
+[![Throughput Graph](https://graphs.waffle.io/XDagger/QtXdagWallet/throughput.svg)](https://waffle.io/XDagger/QtXdagWallet/metrics/throughput)
 
 **XDAG GPU Miner**  
 
 
+**XDAG XIP**  
+[![Throughput Graph](https://graphs.waffle.io/XDagger/XIPs/throughput.svg)](https://waffle.io/XDagger/XIPs/metrics/throughput)
 
+
+**Open Pool Scripts**  
+[![Throughput Graph](https://graphs.waffle.io/XDagger/openxdagpool-scripts/throughput.svg)](https://waffle.io/XDagger/openxdagpool-scripts/metrics/throughput)
+
+**xdag.io**  
+[![Throughput Graph](https://graphs.waffle.io/XDagger/XDagger.github.io/throughput.svg)](https://waffle.io/XDagger/XDagger.github.io/metrics/throughput)
