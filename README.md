@@ -3,6 +3,11 @@ Record all the development progress and all the managment related documnets in t
 
 ## Progress
 
+Details in https://waffle.io/XDagger
+
+
+
+## Glance
 **XDAG Core**  
 [![Throughput Graph](https://graphs.waffle.io/XDagger/xdag/throughput.svg)](https://waffle.io/XDagger/xdag/metrics/throughput)
 
