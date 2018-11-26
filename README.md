@@ -1,5 +1,5 @@
 # Project Management
-Record all the development progress and all the managment related documnets in this repository, inlucindg meetup minutes and develop plan.
+Record all the development progress and all the managment related documents in this repository, inlucindg meetup minutes and develop plan.
 
 ## Progress
 
